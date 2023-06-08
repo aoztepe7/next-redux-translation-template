@@ -4,6 +4,7 @@ import _ from 'lodash';
 import ClientComp from '../(client-components)/ClienComp';
 import ServerComp from '../(server-components)/ServerComp';
 import { Fragment } from 'react';
+import Loading from '../(client-components)/Loading';
 
 
 export const metadata = {
