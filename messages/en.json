@@ -1,0 +1,12 @@
+{
+    "Index": {
+        "title": "Hello world!",
+        "metaTitle": "EN",
+        "metaDescription": "En",
+        "test": "Test EN"
+    },
+    "ClientComp": {
+        "clientText": "En Client Text",
+        "test": "asdasd"
+    }
+}
